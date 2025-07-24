@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Harold
-- 👀 I’m interested in creative writing, 3D design, blockchain development
-- 🌱 I’m currently learning Python programming language
-- 💞️ I’m looking to collaborate on smart contracts development
+Web3 enthusiast building smart contracts and dApps one commit at a time. Contributor to open-source blockchain projects.
+Always shipping, always improving.
 - 📫 How to reach me: bossharoldjohn@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I once stood 10m away from an adult lion
